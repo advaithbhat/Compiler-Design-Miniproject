@@ -1,0 +1,8 @@
+int main()
+begin
+int a,b,c,variable;
+begin
+variable = (a+b)*(c/a)+5;
+print(variable)
+end
+end
